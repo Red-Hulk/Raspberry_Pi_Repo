@@ -3,7 +3,7 @@ import RPi.GPIO as GPIO
 import time
 
 
-#Leds verbinden aan poort 5 en 13 en button aan 17
+#Leds verbinden aan poort 5 en 13 en knoppen aan 22 en 10
 LED_PIN1 = 5
 LED_PIN2 = 13
 BUTTON_PIN1 = 22
