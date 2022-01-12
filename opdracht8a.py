@@ -1,4 +1,4 @@
-#Bibliotheken importen GPIO en Time
+#Bibliotheken importen serial en Time
 import serial
 import time
 
